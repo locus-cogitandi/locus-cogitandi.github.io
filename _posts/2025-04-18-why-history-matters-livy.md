@@ -6,8 +6,6 @@ tags: [livy, latin, history]
 author: Aaron D'Souza and Wyatt Simonson
 ---
 
-# Why History Matters? — Livy Praefatio 10
-
 Few voices from antiquity describe the moral function of history as clearly as Livy does in his preface of *Ab Urbe Condita*:
 
 > *Hoc illud est praecipue in cognitione rerum salubre ac frugiferum, omnis te exempli documenta in inlustri posita monumento intueri; inde tibi tuaeque rei publicae quod imitere capias, inde foedum inceptu foedum exitu quod vites.*
