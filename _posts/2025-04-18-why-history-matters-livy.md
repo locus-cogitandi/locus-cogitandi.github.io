@@ -1,10 +1,10 @@
 ---
- layout: post
- title: Why History Matters?
- subtitle: Livy Praefatio 10
- tags: [livy, latin, history]
- author: Aaron D'Souza and Wyatt Simonson
- ---
+layout: post
+title: Why History Matters?
+subtitle: Livy Praefatio 10
+tags: [livy, latin, history]
+author: Aaron D'Souza and Wyatt Simonson
+---
 
 # Why History Matters? — Livy Praefatio 10
 
