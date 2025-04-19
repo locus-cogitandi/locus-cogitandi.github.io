@@ -20,7 +20,7 @@ author: Aaron D'Souza
 ###############################################
 
 navbar-links:
-  About Me: "About Us"
+  About Us: "About Us"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
@@ -128,7 +128,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "latin, classical, locus cogitandi"
 
 ######################################
 # --- Colours / background image --- #
