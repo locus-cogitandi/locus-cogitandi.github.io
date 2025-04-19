@@ -2,9 +2,6 @@
  layout: post
  title: Why History Matters?
  subtitle: Livy Praefatio 10
- cover-img: /assets/img/path.jpg
- thumbnail-img: /assets/img/thumb.png
- share-img: /assets/img/path.jpg
  tags: [livy, latin, history]
  author: Aaron D'Souza and Wyatt Simonson
  ---
