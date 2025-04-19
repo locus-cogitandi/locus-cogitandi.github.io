@@ -1,10 +1,10 @@
 ---
 layout: page
-title: About me
+title: About us
 subtitle:  
 ---
 
-# About Us
+# Overall
 
 **Locus Cogitandi** is a space for latin, classical antiquity things, and much of thinking.
 
