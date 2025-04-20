@@ -524,20 +524,22 @@ footer .footer-custom-content {
   font-size: 1.875rem;
   margin-top: 0;
 }
+
 .post-preview .post-subtitle {
   margin: 0;
   font-weight: 300;
-  margin-bottom: 0.625rem;
+  margin-bottom: 0.3rem; /* Reduced margin */
 }
-.post-preview .post-meta,border-color: var(--gold);
-.post-heading .post-meta {
+.post-preview .post-meta, .post-heading .post-meta {
+  border-color: var(--gold);
   color: var(--mid-col);
   font-size: 1.125rem;
   font-style: italic;
-  margin: 0 0 0.625rem;
+  margin: 0 0 0.3rem;
   font-family: var(--body-font);
 }
 .post-heading .post-meta {
+    margin-bottom: 0.3rem; /* Reduced margin */
   display: inline-block;
 }
 @media (max-width: 767px) {
