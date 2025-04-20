@@ -830,7 +830,8 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 @media (min-width: 768px) {
   .pagination .page-item .page-link {
     padding: 0.9375rem 1.5625rem;
-  }border-color: var(--gold);
+  border-color: var(--gold);
+  }
 }
 .pagination .page-item .page-link:hover,
 .pagination .page-item .page-link:focus {
@@ -845,13 +846,15 @@ table {
   padding: 0;
   overflow-x: auto;
   display: block;
-}border-color: var(--gold);
+  border-color: var(--gold);
+}
 table tr {
   border-top: 1px solid var(--gold);
   background-color: var(--page-col);
   margin: 0;
   padding: 0;
-}border-color: var(--gold);
+  border-color: var(--gold);
+}
 table tr:nth-child(2n) {
   background-color: #f8f8f8;
 }
@@ -910,7 +913,8 @@ pre {
 }
 .highlight > pre:not([class~="highlight"]) { /* code block with line number */
   padding: 0;
-}border-color: var(--gold);
+  border-color: var(--gold);
+}
 .highlight table,
 .highlight tr,
 .highlight td { /* to be removed after fixing table styles */
@@ -989,8 +993,8 @@ pre {
 
 .blog-post :first-child {
   margin-top: 0;
-}border-color: var(--gold);
-
+  border-color: var(--gold);
+}
 .blog-post img {
   max-width: 100%;
 }
@@ -1028,8 +1032,8 @@ pre {
 .center {
   display: block;
   margin: 0 auto;
+  border-color: var(--gold);
 }
-border-color: var(--gold);
 /* Search bar */
 #beautifuljekyll-search-overlay {
   font-family: var(--header-font);
