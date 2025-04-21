@@ -3,7 +3,7 @@ layout: post
 title: Why History Matters?
 subtitle: Livy's Ab Urbe Condita Praefatio 10
 tags: [livy, latin, history]
-author: Aaron D'Souza and Wyatt Simonson
+author: Wyatt Simonson and Aaron D'Souza 
 ---
 
 Few voices from antiquity describe the moral function of history as clearly as Livy does in his preface of *Ab Urbe Condita*:
