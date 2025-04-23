@@ -38,31 +38,102 @@ layout: null
 }
 
 .theme-boulder {
-
+  --burgundy: #840032; /* Primary Text & Links */
+  --parchment: #E5DADA; /* Navbar & Footer Background */
+  --gold: #E59500; /* Accents & Hover */
+  --cream: #FFFFFF; /* Page Background */
+  --text-col: #002642; /* Main Text Color */
+  --link-col: #840032;
+  --hover-col: #E59500;
+  --navbar-col: #E5DADA;
+  --navbar-text-col: #002642;
+  --navbar-border-col: #E59500;
+  --footer-col: #E5DADA;
+  --footer-text-col: #02040F;
+  --footer-link-col: #02040F;
+  --footer-hover-col: #E59500;
+  --background: #E5DADA; /* Main Background */
+  --foreground: #002642;
+  --primary: #840032;
+  --secondary: #E5DADA;
+  --accent: #E59500;
 }
+
 .theme-qwool {
+  --burgundy: #8E443D;
+  --parchment: #CB9173;
+  --gold: #E0D68A;
+  --cream: #E0D68A;
+  --text-col: #320A28;
+  --link-col: #511730;
+  --hover-col: #8E443D;
+  --navbar-col: #CB9173;
+  --navbar-text-col: #320A28;
+  --navbar-border-col: #8E443D;
+  --footer-col: #CB9173;
+  --footer-text-col: #320A28;
+  --footer-link-col: #320A28;
+  --footer-hover-col: #8E443D;
+  --background: #E0D68A;
+  --foreground: #320A28;
+  --primary: #8E443D;
+  --secondary: #CB9173;
+  --accent: #E0D68A;
+}
 
-.theme-fit {}
+.theme-fit {
+  --burgundy: #FF3366;
+  --parchment: #F6F7F8;
+  --gold: #2EC4B6;
+  --cream: #F6F7F8;
+  --text-col: #011627;
+  --link-col: #FF3366;
+  --hover-col: #2EC4B6;
+  --navbar-col: #F6F7F8;
+  --navbar-text-col: #011627;
+  --navbar-border-col: #2EC4B6;
+  --footer-col: #F6F7F8;
+  --footer-text-col: #011627;
+  --footer-link-col: #011627;
+  --footer-hover-col: #2EC4B6;
+}
 
-.theme-industry {}
+.theme-industry {
+  --burgundy: #2D232E;
+  --parchment: #E0DDCF;
+  --gold: #534B52;
+  --cream: #F1F0EA;
+  --text-col: #474448;
+  --link-col: #2D232E;
+  --hover-col: #534B52;
+  --navbar-col: #E0DDCF;
+  --navbar-text-col: #474448;
+  --navbar-border-col: #534B52;
+  --footer-col: #E0DDCF;
+  --footer-text-col: #474448;
+  --footer-link-col: #474448;
+  --footer-hover-col: #534B52;
+}
 
-.theme-ocean {}
+.theme-ocean {
+  --burgundy: #2E5984; 
+  --parchment: #96E0FF;
+  --gold: #73B0FF;
+  --cream: #5FA6FF;
+  --text-col: #96E0FF; 
+  --link-col: #73B0FF; 
+  --background: #2E5984; 
+}
 
-.theme-midnight {}
-
-.theme-forest {
-
-.theme-boulder {}
-
-.theme-qwool {}
-
-.theme-fit {}
-
-.theme-industry {}
-
-.theme-ocean {}
-
-.theme-midnight {}
+.theme-midnight {
+  --burgundy: #000B49; 
+  --parchment: #E8FFFF;
+  --gold: #E5BD69;
+  --cream: #2C2A4A;
+  --text-col: #E8FFFF; 
+  --link-col: #E5BD69; 
+  --background: #000B49; 
+}
 
 /* --- General --- */
 

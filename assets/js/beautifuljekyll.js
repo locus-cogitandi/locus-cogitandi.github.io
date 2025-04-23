@@ -134,6 +134,62 @@ let BeautifulJekyllJS = {
         $("body").removeClass("overflow-hidden");
       }
     });
+
+    // Theme switching and custom colors
+    const themeSelect = document.getElementById('theme-select');
+    if (themeSelect) {
+      themeSelect.addEventListener('change', function() {
+        const selectedTheme = this.value;
+        const body = document.body;
+
+        // Remove any existing theme class
+        body.classList.forEach(cls => {
+          if (cls.startsWith('theme-') && cls !== 'theme-original') {
+            body.classList.remove(cls);
+          }
+        });
+  
+        if (selectedTheme === 'custom') {
+          // Show custom color inputs
+          document.getElementById('custom-colors').style.display = 'block';
+          // Apply initial custom colors or defaults
+          applyCustomColors();
+          body.classList.add('theme-custom');
+        } else {
+          // Hide custom color inputs
+          document.getElementById('custom-colors').style.display = 'none';
+          if (selectedTheme !== 'original') {
+            body.classList.add('theme-' + selectedTheme);
+          }
+        }
+      });
+    }
+  
+    // Custom color inputs
+    const customBg = document.getElementById('custom-bg');
+    const customText = document.getElementById('custom-text');
+    const customLinks = document.getElementById('custom-links');
+    const customAccents = document.getElementById('custom-accents');
+    if (customBg && customText && customLinks && customAccents) {
+      customBg.addEventListener('input', applyCustomColors);
+      customText.addEventListener('input', applyCustomColors);
+      customLinks.addEventListener('input', applyCustomColors);
+      customAccents.addEventListener('input', applyCustomColors);
+    }
+  
+    function applyCustomColors() {
+      const body = document.body;
+      // Update CSS variables for custom theme
+      body.style.setProperty('--custom-background', customBg.value);
+      body.style.setProperty('--custom-text-col', customText.value);
+      body.style.setProperty('--custom-link-col', customLinks.value);
+      body.style.setProperty('--custom-accent', customAccents.value);
+  
+      // If custom theme is not already active, activate it
+      if (!body.classList.contains('theme-custom')) {
+        body.classList.add('theme-custom');
+      }
+    }
   }
 };
 
