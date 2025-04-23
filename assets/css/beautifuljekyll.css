@@ -3,13 +3,12 @@ layout: null
 ---
 
 @import url("pygment_highlights.css");
-@import url("pygment_highlights.css");
 
 :root {
   --burgundy: #8B2439;
-  --parchment: #F5F1E4;
+  --parchment: #F5F1E4; /* Background */
   --gold: #D4AF37;
-  --cream: #FFFBF0;
+  --cream: #FFFBF0; /* Page Color */
 
   /* Original Theme (same as defaults above, for clarity) */
   --original-burgundy: #8B2439;
@@ -33,8 +32,8 @@ layout: null
   --secondary: var(--parchment);
   --accent: var(--gold);
   /* common CSS variables */
-  --body-font: "Lora", "Times New Roman", serif;
-  --header-font: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  --body-font: 'Lora', 'Times New Roman', serif;
+  --header-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --mid-col: #808080;
 }
 
@@ -43,21 +42,27 @@ layout: null
 }
 .theme-qwool {
 
-}
-.theme-industry {
+.theme-fit {}
 
-}
-.theme-fit {
+.theme-industry {}
 
-}
-.theme-midnight {
+.theme-ocean {}
 
-}
+.theme-midnight {}
+
 .theme-forest {
 
-}
-.theme-ocean {
+.theme-boulder {}
 
+.theme-qwool {}
+
+.theme-fit {}
+
+.theme-industry {}
+
+.theme-ocean {}
+
+.theme-midnight {}
 
 /* --- General --- */
 
