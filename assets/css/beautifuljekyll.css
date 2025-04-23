@@ -738,6 +738,12 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-weight: 300;
   margin: 0.625rem 0 0;
 }
+.intro-header .page-heading .page-subheading {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
 .intro-header .post-heading .post-subheading {
   margin-bottom: 1.25rem;
 }
