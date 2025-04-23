@@ -10,15 +10,33 @@
           {% endfor %}
         </div>
       {% endif %}
-      <div class="theme-selector">
-        <label for="theme-select">Select Theme:</label>
-        <select id="theme-select">
-          <option value="original">Original</option>
-          <option value="boulder">Boulder</option>
-          <option value="qwool">Qwool</option>
-          <option value="industry">Industry</option>
-          <option value="fit">Fit</option>
-        </select>
+      <div class="theme-switcher">
+        <label for="theme-select" style="display: block; margin-bottom: 0.5em;">Select Theme:</label>
+        <div style="display: flex; align-items: center;">
+          <select id="theme-select" style="margin-right: 1em;">
+            <option value="original">Original</option>
+            <option value="boulder">Boulder</option>
+            <option value="qwool">Qwool</option>
+            <option value="industry">Industry</option>
+            <option value="fit">Fit</option>
+            <option value="midnight">Midnight</option>
+            <option value="forest">Forest</option>
+            <option value="ocean">Ocean</option>
+            <option value="custom">Custom</option>
+          </select>
+          <div id="custom-theme-inputs" style="display: none; flex-wrap: wrap; gap: 0.5em;">
+            <label for="custom-bg">Background: <input type="text" id="custom-bg" placeholder="#RRGGBB" style="width: 70px;"></label>
+            <label for="custom-text">Text: <input type="text" id="custom-text" placeholder="#RRGGBB" style="width: 70px;"></label>
+            <label for="custom-links">Links: <input type="text" id="custom-links" placeholder="#RRGGBB" style="width: 70px;"></label>
+            <label for="custom-accents">Accents: <input type="text" id="custom-accents" placeholder="#RRGGBB" style="width: 70px;"></label>
+            <button id="apply-custom-theme" style="
+              background-color: var(--button-bg);
+              color: var(--text-col);
+              border: none;
+              padding: 0.2em 0.5em;
+            ">Apply</button>
+          </div>
+        </div>
       </div>
 
       <p class="copyright text-muted">
