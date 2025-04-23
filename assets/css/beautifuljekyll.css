@@ -6,13 +6,10 @@ layout: null
 
 :root {
   --burgundy: #8B2439;
-  --parchment: #F5F1E4; /* Background */
+  --parchment: #F5F1E4;
   --gold: #D4AF37;
-  --cream: #FFFBF0; /* Page Color */
+  --cream: #FFFBF0;
 
-  /* Original Theme (same as defaults above, for clarity) */
-  --original-burgundy: #8B2439;
-  --original-parchment: #F5F1E4;
 
   /* config file CSS variables */
   --page-col: var(--cream);
@@ -35,53 +32,6 @@ layout: null
   --body-font: 'Lora', 'Times New Roman', serif;
   --header-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --mid-col: #808080;
-}
-
-.theme-boulder {
-  --burgundy: #840032; /* Primary Text & Links */
-  --parchment: #E5DADA; /* Navbar & Footer Background */
-  --gold: #E59500; /* Accents & Hover */
-  --cream: #FFFFFF; /* Page Background */
-  --text-col: #002642; /* Main Text Color */
-  --link-col: #840032;
-  --hover-col: #E59500;
-  --navbar-col: #E5DADA;
-  --navbar-text-col: #002642;
-  --navbar-border-col: #E59500;
-  --footer-col: #E5DADA;
-  --footer-text-col: #02040F;
-  --footer-link-col: #02040F;
-  --footer-hover-col: #E59500;
-  --background: #E5DADA; /* Main Background */
-  --foreground: #002642;
-  --primary: #840032;
-  --secondary: #E5DADA;
-  --accent: #E59500;
-}
-
-.theme-qwool {
-  --burgundy: #8E443D;
-  --parchment: #CB9173;
-  --gold: #E0D68A;
-  --cream: #E0D68A;
-  --text-col: #320A28;
-  --link-col: #511730;
-  --hover-col: #8E443D;
-  --navbar-col: #CB9173;
-  --navbar-text-col: #320A28;
-  --navbar-border-col: #8E443D;
-  --footer-col: #CB9173;
-  --footer-text-col: #320A28;
-  --footer-link-col: #320A28;
-  --footer-hover-col: #8E443D;
-  --background: #E0D68A;
-  --foreground: #320A28;
-  --primary: #8E443D;
-  --secondary: #CB9173;
-  --accent: #E0D68A;
-}
-
-.theme-industry {
 }
 
 /* --- General --- */
@@ -788,8 +738,11 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-weight: 300;
   margin: 0.625rem 0 0;
 }
-
-
+.intro-header .page-heading .page-subheading {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
 
 .intro-header .post-heading .post-subheading {
   margin-bottom: 1.25rem;
