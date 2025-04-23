@@ -134,6 +134,24 @@ let BeautifulJekyllJS = {
         $("body").removeClass("overflow-hidden");
       }
     });
+
+    // Theme switching
+    const themeSelect = document.getElementById('theme-select');
+    if (themeSelect) {
+      themeSelect.addEventListener('change', function() {
+        const selectedTheme = this.value;
+        const body = document.body;
+
+        // Remove any existing theme class
+        body.classList.forEach(cls => {
+          if (cls.startsWith('theme-') && cls !== 'theme-original') {
+            body.classList.remove(cls);
+          }
+        });
+
+        if (selectedTheme !== 'original') body.classList.add('theme-' + selectedTheme);
+      });
+    }
   }
 };
 

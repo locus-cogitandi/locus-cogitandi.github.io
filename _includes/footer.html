@@ -10,6 +10,17 @@
           {% endfor %}
         </div>
       {% endif %}
+      <div class="theme-selector">
+        <label for="theme-select">Select Theme:</label>
+        <select id="theme-select">
+          <option value="original">Original</option>
+          <option value="boulder">Boulder</option>
+          <option value="qwool">Qwool</option>
+          <option value="industry">Industry</option>
+          <option value="fit">Fit</option>
+        </select>
+      </div>
+
       <p class="copyright text-muted">
       {% if site.author %}
         {{ site.author }}
