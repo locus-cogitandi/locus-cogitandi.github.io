@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Courage to Live
-subtitle: Ad Lucilium Epistulae Morales (78)
+subtitle: Seneca's Ad Lucilium Epistulae Morales (78)
 tags: [seneca, stoicism, mental-health, latin]
 author: Aaron D'Souza, Alex Zhu, and Wyatt Simonson
 ---
