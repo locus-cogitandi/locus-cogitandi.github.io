@@ -3,11 +3,37 @@ layout: page
 title: 'Tag Index'
 ---
 
+{% comment %}
+This code is designed to create a tag index page. It does the following:
+
+1. **Sets up date formatting:** Defines the format to display dates on the page.
+2. **Collects all tags:** Gathers all tags used across the site's content.
+3. **Sorts the tags:** Sorts the tags alphabetically.
+4. **Displays tag buttons:** Generates buttons for each tag, linking to a section on the page.
+5. **Lists posts under each tag:** Creates a section for each tag, listing the posts that are associated with that tag.
+6. **Handles hidden tags**: Reads the hidden-tags of a post, add those tags to the site.tags object, and also displays the post with those tags.
+{% endcomment %}
+
 {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
 
+{% comment %} Get all the tags of the site and add the hidden-tags in the site.tags object {% endcomment %}
+{%- for post in site.posts -%}
+    {% if post.hidden-tags %}
+        {% assign hidden_tags = post.hidden-tags | split: ',' %}
+        {% for tag in hidden_tags %}
+            {% assign tag = tag | strip %}
+            {% assign site_tags = site.tags | default: (hash) %}
+            {% assign site_tags_updated = site_tags | merge: (hash_key: tag, hash_value: (site.tags[tag] | push: post)) %}
+            {% assign site_tags = site_tags_updated %}
+        {% endfor %}
+    {% endif %}
+{%- endfor -%}
+
+
+
 {%- capture site_tags -%}
-    {%- for tag in site.tags -%}
-        {{- tag | first -}}{%- unless forloop.last -%},{%- endunless -%}
+    {% for tag in site.tags %}
+        {{ tag | first }}{%- unless forloop.last -%},{%- endunless -%}
     {%- endfor -%}
 {%- endcapture -%}
 {%- assign tags_list = site_tags | split:',' | sort -%}

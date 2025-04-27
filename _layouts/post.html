@@ -41,14 +41,21 @@ layout: base
 
       <div class="blog-post">
         {{ content }}
-      </div>
 
-      {% if page.tags.size > 0 %}
-        <div class="blog-tags">
-          <span>Tags:</span>
-          {% for tag in page.tags %}
-            <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
-          {% endfor %}
+      {%- assign visible_tags = page.tags | where_exp: "tag", "tag != 'hidden'" -%}
+      {%- assign hidden_tags = page.tags | where_exp: "tag", "tag == 'hidden'" -%}
+
+      {% if visible_tags.size > 0 %}
+        <div class="blog-tags" aria-label="Tags">
+          <span>Visible Tags:</span>
+          <ul class="d-inline list-inline" role="list">
+            {% for tag in visible_tags %}
+            
+              <li class="list-inline-item">
+                <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
+              </li>
+            {% endfor %}
+          </ul>
         </div>
       {% endif %}
 
