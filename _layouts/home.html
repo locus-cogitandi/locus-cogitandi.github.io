@@ -86,8 +86,7 @@ layout: page
         <span>Tags:</span>
         <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
         <ul class="d-inline list-inline" role="list">
-          {% assign all_tags = post.tags | concat: post.hidden-tags %}
-          {% assign unique_tags = all_tags | uniq %}
+          {% assign all_tags = post.tags | uniq %}
           
            {% assign visible_tags = post.tags %}
 
