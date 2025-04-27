@@ -14,7 +14,7 @@ If a little is good, more is not necessarily better. Cicero boldly explains:
 
 Cicero’s commentary on the dangers of excessive power placed upon one group serves as the foundation of major political theories and geopolitics. It is important to recognize that neither Cicero’s commentary nor this is to discredit the benefits of democracy. Rather, it reminds us that balance and competing spheres of influence are key. In his own time, Cicero’s writing defended the Roman Republic’s system of government with the Magistrates, the Senate, and the Assembly.
 
-- The two magistrates called **consuls** held the supreme civil and military authority.
+- The two **magistrates** called **consuls** held the supreme civil and military authority.
 - The **Senate** can be considered the advisory branch of government, formed from the patrician aristocrats.
 - The **Assembly** was composed of two parts: the army, which elected consuls annually, and all citizens, who created legislation and decided issues of war and peace.
 
