@@ -2,7 +2,7 @@
 layout: post
 title: Why History Matters?
 subtitle: Livy's Ab Urbe Condita Praefatio 10
-tags: [livy, latin, history]
+tags: [livy, history, latin]
 author: Aaron D'Souza and Wyatt Simonson
 ---
 
