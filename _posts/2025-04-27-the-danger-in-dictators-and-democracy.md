@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Danger in Dictators and Democracy
+title: The Dangers of Dictators and Democracy
 subtitle: Cicero’s De re publica 1.68
 tags: [cicero, politics, goverment, latin]
 hidden-tags: dictator, democracy, president, excesses
