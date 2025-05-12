@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Regress After Success
-subtitle: Sallust’s *De Coniuratione Catilinae* 36
+subtitle: Sallust’s De Coniuratione Catilinae 36
 tags: [sallust, politics, progress, greatness, latin]
 hidden-tags: rome, decline, luxury, stagnation, greatness, progress, america
 author: Aaron D’Souza, Alex Zhu, and Wyatt Simonson
