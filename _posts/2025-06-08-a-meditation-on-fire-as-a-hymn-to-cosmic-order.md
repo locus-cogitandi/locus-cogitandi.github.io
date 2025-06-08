@@ -13,8 +13,6 @@ As a Californian, I am no stranger to the destructive force of fire. Yet, as I s
 
 **Moreover, since the nature of this one element is fertile, and since it gives birth to itself and grows from the smallest sparks—what do you think must happen with so many earthly fires? What is that nature which feeds the most ravenous hunger in the whole world without consuming itself? Add to this the countless stars and the vast sun, add the fires kindled by humans, and the fire latent in stones and in wood worn against itself—add now the origins of clouds and of lightning: surely, it would surpass all miracles if there were even a single day on which everything did not catch fire, since even concave mirrors can more easily ignite things with the rays of the sun than any other fire can.**
 
-## Reflection
-
 _Warning: the hermeneutic here is somewhat speculative overal this writing is potentially esoteric_
 
 Pliny's passage prompts us to reconsider fire not just as a destructive force—something Californians know all too well—but as a deeper symbol of the universe's hidden order.
