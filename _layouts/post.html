@@ -3,10 +3,8 @@ layout: base
 ---
 {% if page.author %}
   {% capture author_and_translator %}{{ page.author }}{% endcapture %}
-  {% assign author_name = page.author %}
-  {% assign translator_names = page.translator_name | split: ', ' %}
+  {% assign author_name = author_and_translator | split: ' and ' | first %}
 {% endif %}
-
 {% include header.html type="post" %}
 
 <main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
@@ -49,9 +47,7 @@ layout: base
 
       {% if page.author %}
         <p class="blog-post-meta">By {{ author_name }}</p>
-        {% if translator_names.size > 0 %}
-          <p class="blog-post-meta">Latin translated by {% for translator in translator_names %}{{ translator }}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
-        {% endif %}
+        {% if page.translator_name %}<p class="blog-post-meta">Latin translated by {{ page.translator_name }}</p>{% endif %}
 
 
       {% endif %}

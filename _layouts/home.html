@@ -47,7 +47,12 @@ layout: page
       </a>
 
       {% if post.author %}
-        <span>By <strong>{{ post.author | strip_html }}</strong></span>
+        <span>By <strong>{{ post.author | strip_html }}</strong></span><br>
+      {% endif %}
+      {% if post.author %}
+        {% if post.translator_name %}
+          <span>Latin translated by <strong>{{ post.translator_name | strip_html }}</strong></span>
+        {% endif %}
       {% endif %}
       <p class="post-meta">
         {% assign date_format = site.date_format | default: "%B %-d, %Y" %}
