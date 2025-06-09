@@ -3,12 +3,9 @@ layout: base
 ---
 {% if page.author %}
   {% capture author_and_translator %}{{ page.author }}{% endcapture %}
-  {% assign author_split = author_and_translator | split: " and " %}
-  {% assign author_name = author_split[0] %}
-  {% assign translator_name = author_split[1] %}
+  {% assign author_name = page.author %}
+  {% assign translator_names = page.translator_name | split: ', ' %}
 {% endif %}
-
-
 
 {% include header.html type="post" %}
 
@@ -52,9 +49,11 @@ layout: base
 
       {% if page.author %}
         <p class="blog-post-meta">By {{ author_name }}</p>
-        {% if translator_name %}
-          <p class="blog-post-meta">Latin translated by {{ translator_name }}</p>
+        {% if translator_names.size > 0 %}
+          <p class="blog-post-meta">Latin translated by {% for translator in translator_names %}{{ translator }}{% unless forloop.last %}, {% endunless %}{% endfor %}</p>
         {% endif %}
+
+
       {% endif %}
       {%- assign visible_tags = page.tags | where_exp: "tag", "tag != 'hidden'" -%}
       {%- assign hidden_tags = page.tags | where_exp: "tag", "tag == 'hidden'" -%}
