@@ -1,15 +1,15 @@
 ---
 layout: post
 title: The Courage to Live
-subtitle: Seneca's Ad Lucilium Epistulae Morales 78
+subtitle: Seneca, Ad Lucilium Epistulae Morales 78
 tags: [seneca, stoicism, mental-health, latin]
 hidden-tags: suicide, moral epistles 78
 author: Aaron D'Souza, Wyatt Simonson, and Alex Zhu
 ---
 
-In a world of suffering mental health, Seneca’s letter to Lucilius (*Moral Epistles* 78) is very poignant:
+In a world of suffering mental health, Seneca’s letter to Lucilius (_Moral Epistles_ 78) is very poignant:
 
-> *Saepe impetum cepi abrumpendae vitae; patris me indulgentissimi senectus retinuit. Cogitavi enim non quam fortiter ego mori possem, sed quam ille fortiter desiderare non posset. Itaque imperavi mihi, ut viverem. Aliquando enim et vivere fortiter facere est.*
+> _Saepe impetum cepi abrumpendae vitae; patris me indulgentissimi senectus retinuit. Cogitavi enim non quam fortiter ego mori possem, sed quam ille fortiter desiderare non posset. Itaque imperavi mihi, ut viverem. Aliquando enim et vivere fortiter facere est._
 
 **Often, I seized an urge to end my life; however, the old age of my most affectionate father held me back. For I thought not how bravely I could embrace death, but how bravely he could not bear my death. Thus, I convinced myself to live, for sometimes even living is to act bravely.**
 
