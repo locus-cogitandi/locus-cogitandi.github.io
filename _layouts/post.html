@@ -47,9 +47,9 @@ layout: base
 
       {% if page.author %}      
         <p class="blog-post-meta">By {{ author_name }}</p>
+      {% endif %}
       {% if page.translator_name %}
-        <p class="blog-post-meta">Latin translated by {{ page.translator_name }}</p>{% endif %}
-
+        <p class="blog-post-meta">Latin translated by {{ page.translator_name }}</p>
       {% endif %}
       {%- assign visible_tags = page.tags | where_exp: "tag", "tag != 'hidden'" -%}
       {%- assign hidden_tags = page.tags | where_exp: "tag", "tag == 'hidden'" -%}
