@@ -4,7 +4,8 @@ title: Struggle of the Rational and Emotional Mind
 subtitle: Catullus, Miser Catulle - Catullus 8
 tags: [catullus, emotion, reason, love, latin]
 hidden-tags: breakup, stoicism, psychology, decision-making, human nature, conflict
-author: Aaron D'Souza and Wyatt Simonson
+author: Aaron D'Souza 
+translator_name: Wyatt Simonson and Aaron D'Souza
 ---
 
 Whenever we make decisions, we often consider both logic and emotion. In Catullus 8, we observe the timeless human struggle between a rational mind that knows it must move on, and an emotional mind that cannot let go of the past:

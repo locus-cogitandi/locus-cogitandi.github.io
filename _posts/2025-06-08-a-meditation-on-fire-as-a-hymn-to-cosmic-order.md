@@ -5,6 +5,7 @@ subtitle: Pliny the Elder, Excerpt from Historia Naturalis–Book 2 [239]
 tags: [pliny, philosophy, stoicism, nature, fire, latin]
 hidden-tags: fire, cosmos, logos, order, providence, logos
 author: Aaron D'Souza
+translator_name: Aaron D'Souza
 ---
 
 As a Californian, I am no stranger to the destructive force of fire. Yet, as I stare into the blaze, I am intrigued by the beauty of the dancing flames and moving colors. Pliny marvels at the balance and resilience of nature as he contemplates fire as not just a physical phenomenon, but as a cosmic paradox:

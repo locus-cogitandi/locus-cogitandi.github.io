@@ -4,7 +4,8 @@ title: The Courage to Live
 subtitle: Seneca, Ad Lucilium Epistulae Morales 78
 tags: [seneca, stoicism, mental-health, latin]
 hidden-tags: suicide, moral epistles 78
-author: Aaron D'Souza, Wyatt Simonson, and Alex Zhu
+author: Aaron D'Souza
+translator_name: Wyatt Simonson, Alex Zhu, and Aaron D'Souza
 ---
 
 In a world of suffering mental health, Seneca’s letter to Lucilius (_Moral Epistles_ 78) is very poignant:

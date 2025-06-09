@@ -4,7 +4,8 @@ title: The Dangers of Dictators and Democracy
 subtitle: Cicero, De re publica 1.68
 tags: [cicero, politics, goverment, latin]
 hidden-tags: dictator, democracy, president, excesses
-author: Aaron D'Souza, Wyatt Simonson, and Alex Zhu
+author: Aaron D'Souza 
+translator_name: Wyatt Simonson, Alex Zhu, and Aaron D'Souza
 ---
 
 If a little is good, more is not necessarily better. Cicero boldly explains:

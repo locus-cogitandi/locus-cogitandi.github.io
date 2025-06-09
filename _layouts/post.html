@@ -1,6 +1,14 @@
 ---
 layout: base
 ---
+{% if page.author %}
+  {% capture author_and_translator %}{{ page.author }}{% endcapture %}
+  {% assign author_split = author_and_translator | split: " and " %}
+  {% assign author_name = author_split[0] %}
+  {% assign translator_name = author_split[1] %}
+{% endif %}
+
+
 
 {% include header.html type="post" %}
 
@@ -42,6 +50,12 @@ layout: base
       <div class="blog-post">
         {{ content }}
 
+      {% if page.author %}
+        <p class="blog-post-meta">By {{ author_name }}</p>
+        {% if translator_name %}
+          <p class="blog-post-meta">Latin translated by {{ translator_name }}</p>
+        {% endif %}
+      {% endif %}
       {%- assign visible_tags = page.tags | where_exp: "tag", "tag != 'hidden'" -%}
       {%- assign hidden_tags = page.tags | where_exp: "tag", "tag == 'hidden'" -%}
 
