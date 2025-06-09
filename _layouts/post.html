@@ -5,6 +5,9 @@ layout: base
   {% capture author_and_translator %}{{ page.author }}{% endcapture %}
   {% assign author_name = author_and_translator | split: ' and ' | first %}
 {% endif %}
+{% if page.translator_name %}
+  <p class="blog-post-meta">Latin translated by {{ page.translator_name }}</p>
+{% endif %}
 {% include header.html type="post" %}
 
 <main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
@@ -48,9 +51,7 @@ layout: base
       {% if page.author %}      
         <p class="blog-post-meta">By {{ author_name }}</p>
       {% endif %}
-      {% if page.translator_name %}
-        <p class="blog-post-meta">Latin translated by {{ page.translator_name }}</p>
-      {% endif %}
+      
       {%- assign visible_tags = page.tags | where_exp: "tag", "tag != 'hidden'" -%}
       {%- assign hidden_tags = page.tags | where_exp: "tag", "tag == 'hidden'" -%}
 
