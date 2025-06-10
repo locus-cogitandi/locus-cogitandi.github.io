@@ -12,13 +12,13 @@ We are high school students at *The Cambridge School*, with a shared passion for
 
 ## Who We Are
 
-- **Aaron D'Souza** — *"Knows everything and nothing"*
-- **Wyatt Simonson** — *"Got sick for three weeks and read Latin textbooks"*
+- **Aaron D'Souza** — *"Knows everything and nothing"* (**editor-in-chief**)
+- **Wyatt Simonson** — *"Got sick for three weeks and read Latin textbooks"* (**chief translator**)
 - **Alex Zhu** — *"Goes by A"*
 
 ## Special Thanks
 
-We are especially grateful to our Latin teacher and club advisor, **Mr. McNair**.
+We are especially grateful to our Latin teacher and club advisor, **Mr. McNair**, who sparked out interest and continuously supports our effort. 
 
 
 *fluctuat nec mergitur*
