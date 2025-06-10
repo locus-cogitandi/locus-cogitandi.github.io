@@ -1,18 +1,16 @@
 ---
 layout: base
 ---
-{% if page.author %}
-  {% capture author_and_translator %}{{ page.author }}{% endcapture %}
-  {% assign author_name = author_and_translator | split: ' and ' | first %}
 {% include header.html type="post" %}
 
 <main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
   {% if page.author %}
-  <p class="blog-post-meta">By {{ page.author }}</p>
-  {% endif %}
-
-  {% if page.translator_name and page.translator_name != page.author %}
-  <p class="blog-post-meta">Latin translated by {{ page.translator_name }}</p>
+  <p class="blog-post-meta">
+    By {{ page.author }}
+    {% if page.translator_name and page.translator_name != page.author %}
+      Latin translated by {{ page.translator_name }}
+    {% endif %}
+  </p>
   {% endif %}
 
   <div class="row">
@@ -51,16 +49,16 @@ layout: base
 
       <div class="blog-post">
         {{ content }}
+      </div>
       
       {%- assign visible_tags = page.tags | where_exp: "tag", "tag != 'hidden'" -%}
       {%- assign hidden_tags = page.tags | where_exp: "tag", "tag == 'hidden'" -%}
 
       {% if visible_tags.size > 0 %}
         <div class="blog-tags" aria-label="Tags">
-          <span>Visible Tags:</span>
+          <span>Tags:</span>
           <ul class="d-inline list-inline" role="list">
             {% for tag in visible_tags %}
-            
               <li class="list-inline-item">
                 <a href="{{ '/tags' | relative_url }}#{{- tag -}}">{{- tag -}}</a>
               </li>
