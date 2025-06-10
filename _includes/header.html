@@ -35,14 +35,18 @@
           
           {% if include.type == "post" %}
  {% if page.author %}
- <span class="post-author">By <strong>{{ page.author | strip_html }}</strong></span>
+ <div class="post-author">By <strong>{{ page.author | strip_html }}</strong></div>
  {% endif %}
  {% if page.translator_name and page.translator_name != page.author %}
- <span class="post-translator">Latin translated by <strong>{{ page.translator_name | strip_html }}</strong></span>
+ <div class="post-translator">Latin translated by <strong>{{ page.translator_name | strip_html }}</strong></div>
+ {% endif %}
+ {# There is no translator_name or translator_name is same as author so just display author #}
+ {% if page.author and page.translator_name and page.translator_name == page.author %}
  {% endif %}
  <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
             {% if page.last-updated %}
               <span class="post-meta">
+
                 <span class="d-none d-md-inline middot">&middot;</span>
                 Last updated {{ page.last-updated | date: date_format }}
               </span>
