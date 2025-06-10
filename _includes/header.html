@@ -33,17 +33,17 @@
             {% endif %}
           {% endif %}
           
-          {% if include.type == "post" %} 
-            {% if page.author %}
+          {% if include.type == "post" %}
+            {% if page.author -%}
               <p class="post-author-meta">
                 By <strong>{{ page.author | strip_html }}</strong>
               </p>
-            {% endif%}
-            {% if page.translator_name and page.translator_name != page.author %}
+            {%- endif -%}
+            {%- if page.translator_name and page.translator_name != page.author -%}
               <p class="post-translator-meta">
                 Latin translated by <strong>{{ page.translator_name | strip_html }}</strong>
               </p>
-            {% endif %}
+            {%- endif %}
             <span class="post-meta">Posted on {{ page.date | date: date_format }}</span>
             {% if page.last-updated %}
               <span class="post-meta">
