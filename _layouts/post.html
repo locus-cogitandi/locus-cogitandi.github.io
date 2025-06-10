@@ -4,14 +4,6 @@ layout: base
 {% include header.html type="post" %}
 
 <main class="{% if page.full-width %} container-fluid {% else %} container-md {% endif %}">
-  {% if page.author %}
-  <p class="blog-post-meta">
-    By {{ page.author }}
-    {% if page.translator_name and page.translator_name != page.author %}
-      Latin translated by {{ page.translator_name }}
-    {% endif %}
-  </p>
-  {% endif %}
 
   <div class="row">
     <div class="{% if page.full-width %} col {% else %} col-xl-8 offset-xl-2 col-lg-10 offset-lg-1 {% endif %}">
