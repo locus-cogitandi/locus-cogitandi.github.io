@@ -18,7 +18,7 @@ We are high school students at *The Cambridge School*, with a shared passion for
 
 ## Special Thanks
 
-We are especially grateful to our Latin teacher and club advisor, **Mr. McNair**, who sparked out interest and continuously supports our effort. 
+We are especially grateful to our Latin teacher and club advisor, **Mr. McNair**, who sparked our interest and continuously supports our effort. 
 
 
 *fluctuat nec mergitur*
