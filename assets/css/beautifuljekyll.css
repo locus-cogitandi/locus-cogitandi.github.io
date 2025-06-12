@@ -24,6 +24,60 @@ layout: null
   --mid-col: #808080;
 }
 
+<<<<<<< HEAD
+/* Specific button styles - only modify border-radius */
+.btn-primary,
+.btn-secondary, 
+.btn-success, 
+.btn-danger, 
+.btn-warning, 
+.btn-info, 
+.btn-light, 
+.btn-dark {
+  border-radius: 30px;
+}
+
+/* Pagination buttons - only modify border-radius */
+.pagination .page-item .page-link {
+  border-radius: 30px;
+}
+
+/* Tag buttons - only modify border-radius */
+.blog-tags a,
+.tag-btn {
+  border-radius: 30px;
+  padding: 0.25rem 0.75rem;
+}
+
+/* Search button - only modify border-radius */
+#nav-search-btn {
+  border-radius: 30px;
+}
+
+/* Navbar toggler - only modify border-radius */
+.navbar-toggler {
+  border-radius: 30px;
+}
+
+/* Dropdown menu items - only modify border-radius */
+@media (min-width: 1200px) {
+  .navbar-custom .nav-item.dropdown .dropdown-menu {
+    border-radius: 10px;
+  }
+  
+  .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item:first-child {
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  
+  .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item:last-child {
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+}
+
+=======
+>>>>>>> parent of 87ff0ad (Reapply "changes?")
 /* --- General --- */
 
 html {
@@ -1123,4 +1177,14 @@ pre {
   #nav-search-text {
     display: inline-block;
   }
+<<<<<<< HEAD
 }
+/* --- Round Buttons --- */
+.btn {
+  border-radius: 30px;
+  padding: 0.5rem 1.25rem;
+}
+
+=======
+}
+>>>>>>> parent of 87ff0ad (Reapply "changes?")
