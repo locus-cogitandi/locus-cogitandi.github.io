@@ -27,6 +27,7 @@ layout: null
   --mid-col: #808080;
 }
 
+<<<<<<< HEAD
 /* Specific button styles - only modify border-radius */
 .btn-primary,
 .btn-secondary, 
@@ -78,6 +79,8 @@ layout: null
   }
 }
 
+=======
+>>>>>>> parent of 753ab0d (Revert "Reapply "try again"")
 /* --- General --- */
 
 html {
@@ -1177,6 +1180,7 @@ pre {
   #nav-search-text {
     display: inline-block;
   }
+<<<<<<< HEAD
 }
 /* --- Round Buttons --- */
 .btn {
@@ -1184,3 +1188,6 @@ pre {
   padding: 0.5rem 1.25rem;
 }
 
+=======
+}
+>>>>>>> parent of 753ab0d (Revert "Reapply "try again"")
