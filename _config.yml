@@ -24,7 +24,8 @@ author: Aaron D'Souza
 
 navbar-links:
   About Us: "aboutus"
-  Tag Index: "tags"
+  Contact Us: "contact"
+#  Tag Index: "tags"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
 #    - Learn markdown: "https://www.markdowntutorial.com/"
