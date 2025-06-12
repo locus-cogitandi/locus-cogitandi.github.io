@@ -17,11 +17,13 @@ layout: null
   --footer-text-col: {{ site.footer-text-col | default: "#777777" }};
   --footer-link-col: {{ site.footer-link-col | default: "#404040" }};
   --footer-hover-col: {{ site.footer-hover-col | default: "#0085A1" }};
-
+  --accent-col: {{site.accent-col | default: "D4AF37"}};
+  
   /* common CSS variables */
   --body-font: 'Lora', 'Times New Roman', serif;
   --header-font: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   --mid-col: #808080;
+  
 }
 
 /* --- General --- */
@@ -484,7 +486,7 @@ footer .footer-custom-content {
 
 .post-preview {
   padding: 1.25rem 0;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid --acent-col; 
   overflow: hidden;
 }
 
@@ -740,14 +742,14 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   -moz-box-shadow: 1px 1px 3px #000;
 }
 .intro-header.big-img .post-heading .post-meta {
-  color: #EEE;
+  color: var(--accent-col);
 }
 .intro-header.big-img .img-desc {
   background: rgba(30, 30, 30, 0.6);
   position: absolute;
   padding: 0.3125rem 0.625rem;
   font-size: 0.6875rem;
-  color: #EEE;
+  color: var(--accent-col);
   font-family: var(--header-font);
   right: 0;
   bottom: 0;
@@ -951,7 +953,7 @@ pre {
 .box-success {
   padding: 0.9375rem 0.9375rem 0.9375rem 0.625rem;
   margin: 1.25rem 1.25rem 1.25rem 0.3125rem;
-  border: 1px solid #eee;
+  border: 1px solid var(--accent-col);
   border-left-width: 0.3125rem;
   border-radius: 0.3125rem 0.1875rem 0.1875rem 0.3125rem;
 }
@@ -1009,7 +1011,7 @@ pre {
   padding: 0.625rem 1.25rem;
   margin: 0 0 1.25rem;
   font-size: 1.1rem;
-  border-left: 0.3125rem solid #eee;
+  border-left: 0.3125rem solid var(--accent-col);
 }
 
 .blog-post blockquote p:last-child {
