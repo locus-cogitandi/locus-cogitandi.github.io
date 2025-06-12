@@ -141,17 +141,17 @@ keywords: "latin, classical, locus cogitandi"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
-hover-col: "#0085A1"
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+page-col: "#F5F1E4"
+text-col: "#8B2439"
+link-col: "#D4AF37"
+hover-col: "#B8941F"
+navbar-col: "#8B2439"
+navbar-text-col: "#F5F1E4"
+navbar-border-col: "#A63450"
+footer-col: "#f4f1e4"
+footer-text-col: "#787878"
 footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-hover-col: "#E8C547"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
