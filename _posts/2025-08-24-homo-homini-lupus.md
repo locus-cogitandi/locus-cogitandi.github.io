@@ -8,8 +8,6 @@ author: Milo Austin (guest)
 translator_name: Milo Austin
 ---
 
-*Milo Austin is a guest author who is a junior at Colgate University*
-
 At the beginning of the Asinaria, the slaves Libanus and Leonida come up with a clever ruse to acquire twenty minae of silver. When a merchant arrives in Athens to pay for an ass with this sum, Leonida decides to impersonate Saurea, the chamberlain of his master's wife, to whom the money is supposed to be paid. At first, the merchant does not find this ruse entirely convincing:
 
 | **Latin** | **English Translation** |
@@ -24,3 +22,5 @@ In this passage, the merchant refuses to hand over the money without confirming 
 The phrase "lupus est homo homini," apparently a variation on a Roman proverb, has been invoked to explain all manner of human cruelties. In the context of the Asinaria, it is a warning against trusting strangers too easily: when you meet someone you don't know, you should assume that he is as dangerous as a wolf. In the Asinaria, the merchant is certainly correct to doubt Leonida's intentions. But the phrase "homo homini lupus" is just as true in modern times as it was in the ancient world. Even as it has become easier to verify the identity of strangers, technology has provided unscrupulous actors with new and exciting opportunities to exploit other people.
 
 Ironically, the merchant of the Asinaria is ultimately duped in spite of his reluctance: Demaenetus confirms Leonida's identity, and the twenty minae of silver are duly handed over. But it cannot be said that the merchant did not perform his due diligence; and I hope it is not trite to say that many people, myself included, have something to learn from his prudence.
+
+*Milo Austin is a guest author who is a junior at Colgate University*
