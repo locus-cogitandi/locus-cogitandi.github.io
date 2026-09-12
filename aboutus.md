@@ -16,7 +16,7 @@ Editor & Languages, **Wyatt Simonson** once got sick for three weeks, which let 
 
 ## Beacons of Advise
 
-The following are a list of people who have signifcantly influenced our thought process & taste and/or who we occasionally go to for guidance on reading & selection. 
+*The following are a list of people who have signifcantly influenced our thought process & taste and/or who we occasionally go to for guidance on reading & selection.*
 
 Teacher (Latin & Greek) / Advisor, **Jim Hamilton** studied at Westminster Seminary California and UC Irvine; he is the language chair at the Cambridge School in San Diego, where he teaches Latin and Ancient Greek. 
 
