@@ -23,4 +23,4 @@ The phrase "lupus est homo homini," apparently a variation on a Roman proverb, h
 
 Ironically, the merchant of the Asinaria is ultimately duped in spite of his reluctance: Demaenetus confirms Leonida's identity, and the twenty minae of silver are duly handed over. But it cannot be said that the merchant did not perform his due diligence; and I hope it is not trite to say that many people, myself included, have something to learn from his prudence.
 
-*Milo Austin is a guest author who is a junior at Colgate University*
+*Milo Austin is a junior at Colgate University.*
