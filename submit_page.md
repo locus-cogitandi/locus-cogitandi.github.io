@@ -4,8 +4,6 @@ title: Submit
 subtitle:  
 ---
 
-# Submit
-
 We accept work at the intersection of thinking, classical texts, and lived experiences. Interactions with and allusions to primary-source (latin/greek) classical texts are highly valued, though not necessary. 
 
 ## Cardinal Guidelines
