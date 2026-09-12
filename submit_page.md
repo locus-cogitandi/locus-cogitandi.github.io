@@ -24,6 +24,8 @@ Please do not submit work already published elsewhere.
 
 **Miscellaneous**: If you have some other writing you’d like to submit that doesn’t fit neatly into one of the two above categories, you’re still free to submit. 
 
+*We're also open to accepting original Latin text, but please include some sort of english outline / description which defines the stylistic intent of your writing.*
+
 ## Instructions
 
 Please send your submission to [locuscogitandi@gmail.com](locuscogitandi@gmail.com)
