@@ -25,7 +25,7 @@ author: Aaron D'Souza
 navbar-links:
   About Us: "aboutus"
   Submit: "submit_page"
-  Contact Us: "contact"
+#  Contact Us: "contact"
 #  Tag Index: "tags"
 #  Resources:
 #    - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -56,7 +56,7 @@ navbar-links:
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-#  email: "someone@example.com"
+#  email: "locuscogitandi@gmail.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  github: daattali
