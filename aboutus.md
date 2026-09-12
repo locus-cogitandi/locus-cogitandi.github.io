@@ -6,7 +6,7 @@ subtitle:
 
 ## Locus Cogitandi
 
-A few years ago, this project started as a roundtable discussion of Latin writing during lunch breaks. The idea was simple. Create a place for thinking. Eventually, this led to writing some blog posts. Recently, we’ve decided to expand this into **a literary journal at the intersection of philosophy, classical texts, and the present-day experience run by students at the Cambridge School**.
+A few years ago, this project started as a roundtable discussion of Latin writing during lunch breaks. The idea was simple. Create a place for thinking. Eventually, this led to writing some blog posts. Recently, we’ve decided to expand this into **a literary journal at the intersection of thinking, classical texts, and lived experiences run by students at the Cambridge School**.
 
 ## Our Team
 
