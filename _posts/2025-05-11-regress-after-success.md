@@ -5,7 +5,7 @@ subtitle: Sallust, De Coniuratione Catilinae 36
 tags: [sallust, politics, progress, greatness, latin]
 hidden-tags: rome, decline, luxury, stagnation, greatness, progress, america
 author: Aaron D’Souza
-translator_name: Wyatt Simonson, Alex Zhu, and Aaron D'Souza
+translator_name: Wyatt Simonson and Alex Zhu
 ---
 
 In a nation wherein numerous pleasures, delights, and freedoms are taken for granted, we must remember that the striving for greater things must never end. As Sallust boldly explains:

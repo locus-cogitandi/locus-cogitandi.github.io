@@ -5,7 +5,7 @@ subtitle: Livy, Ab Urbe Condita Praefatio 10
 tags: [livy, history, latin]
 hidden-tags: ab urbe condita, praefatio 10
 author: Aaron D'Souza 
-translator_name: Wyatt Simonson and Aaron D'Souza
+translator_name: Wyatt Simonson
 ---
 
 Few voices from antiquity describe the moral function of history as clearly as Livy does in his preface of _Ab Urbe Condita_:

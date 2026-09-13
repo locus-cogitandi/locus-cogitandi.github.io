@@ -5,7 +5,7 @@ subtitle: Paulini Pellaei, Eucharisticus 154–175
 tags: [late antiquity, medieval, morality, class, christianity, latin]
 hidden-tags: classism, hierarchy, culpa, crimen, social order, confession
 author: Aaron D'Souza
-translator_name: Wyatt Simonson Aaron D'Souza
+translator_name: Wyatt Simonson
 ---
 
 Typically, our conception of morality and reflection considers the ideas of right and wrong, virtue and vice. Yet, more subtly, moral language often serves another function: it charts the social space we live in. As a 5th-century Christian poet, Paulinus of Pella’s *Eucharisticus* recounts his sexual excess in youth, his language serves as a striking example of how moral valuation is often inseparable from social stratification; indeed, as outsiders looking back on an antiquated time, we can easily observe the social arrangement which those in the same antiquated time would simply consider normal:
