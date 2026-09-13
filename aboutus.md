@@ -10,9 +10,9 @@ A few years ago, this project started as a roundtable discussion of Latin writin
 
 ## Our Team
 
-Editor-in-Chief, **Aaron D’Souza** knows both everything and nothing.
+Editor-in-Chief, **Aaron D’Souza** Junior @ The Cambridge School -  Latin.
 
-Editor & Languages, **Wyatt Simonson** once got sick for three weeks, which let him read Latin and Hebrew textbooks for fun. 
+Editor & Languages, **Wyatt Simonson** Junior @ The Cambridge School - Latin, Greek, and Hebrew. 
 
 ## Beacons of Advise
 
