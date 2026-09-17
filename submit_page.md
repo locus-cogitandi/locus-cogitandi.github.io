@@ -40,9 +40,9 @@ Make sure that the document filenames clearly indicate the title(s) of your piec
 
 If you don't follow the defined formating exactly, we will still review your submission; though, it would be most helpful if you follow the formatting guidelines to the best of your ability. 
 
-After submitting, we will get back to you with a decision or revsions as soon as we can by email. We will always try to provide as much feedback as possible. We will always prefer to offer you a revision oprtunity, than rejecting your work. If its taking longer, that doesn't mean we haven't read your work; it most likely we are working with multiple reviewers to ensure we can make an informed decision and provide thorough feedback. 
+After submitting, we will get back to you with a decision or revsions as soon as we can by email. We will always try to provide as much feedback as possible. We will always prefer to offer you a revision opportunity versus simply rejecting your work. If it's taking longer, that doesn't mean we haven't read your work; it most likely we are working with multiple reviewers to ensure we can make an informed decision and provide thorough feedback. 
 
-If you don't hear back from us within a month after submission, feel free to follow up as a reply or forwarding of the submission email.
+If you don't hear back from us within a month after submission, feel free to follow up as a reply to the original submission email.
 
 ## Confused?
 
