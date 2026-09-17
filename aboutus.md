@@ -6,13 +6,13 @@ subtitle:
 
 ## Locus Cogitandi
 
-A few years ago, this project started as a roundtable discussion of Latin writing during lunch breaks. The idea was simple. Create a place for thinking. Eventually, this led to writing some blog posts. Recently, we’ve decided to expand this into **a literary journal at the intersection of thinking, classical texts, and lived experiences run by students at the Cambridge School**.
+A few years ago, this project started as a roundtable discussion of Latin writing during lunch breaks. The idea was simple. Create a place for thinking. Eventually, this led to writing some blog posts. Recently, we’ve decided to expand this into **a literary journal at the intersection of thinking, classical texts, and lived experiences run by and built for students**.
 
 ### Our Team
 
-Editor-in-Chief, **Aaron D’Souza** Junior @ The Cambridge School -  Latin.
+Editor-in-Chief, **Aaron D’Souza** is a high school junior at The Cambridge School in San Diego. Languages: Latin. 
 
-Editor & Languages, **Wyatt Simonson** Junior @ The Cambridge School - Latin, Greek, and Hebrew. 
+Editor & Languages, **Wyatt Simonson** is a high school junior at The Cambridge School in San Diego. Languages: Latin, Greek, and Hebrew.
 
 ### Readers / Advisors / Quality Checkers 
 
