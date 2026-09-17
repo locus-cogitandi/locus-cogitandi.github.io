@@ -24,6 +24,8 @@ We accept work at the intersection of thinking, classical texts, and lived exper
 
 **Miscellaneous**: If you have some other writing you’d like to submit that doesn’t fit neatly into one of the three above categories, you’re still free to submit if you believe it might be relevant.
 
+Please note that work currently present on our website is from our blog. Good submissions may be very similar or extremely diffirent compared to them. 
+
 ## How?
 
 Your submission should be in the form of an email to [locuscogitandi@gmail.com](locuscogitandi@gmail.com). The subject of your email should be in the following format: Submission, [Title], [First and Last Name], [Category]. In the body of your email, please include a brief third-person bio, title, category, and any other information you think is relevant to us reviewing your submission. Please attach your writing as a word/pdf document, formatted reasonably. If you wish to include submit multiple pieces, try to incldue multiple attachments in the same email, rather than multiple emails. Make sure that the documents clearly indicate the title(s) of your piece(s) and have a file name in the structure of: LastName_ShortTitle_Category_1. If you don't follow the defined formating exactly, we will still review your submission; though, it would be most helpful if you follow the formatting guidelines to the best of your ability. 
