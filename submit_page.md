@@ -28,7 +28,17 @@ Please note that work currently present on our website is from our blog. Good su
 
 ## How?
 
-Your submission should be in the form of an email to [locuscogitandi@gmail.com](locuscogitandi@gmail.com). The subject of your email should be in the following format: Submission, [Title], [First and Last Name], [Category]. In the body of your email, please include a brief third-person bio, title, category, and any other information you think is relevant to us reviewing your submission. Please attach your writing as a word/pdf document, formatted reasonably. If you wish to include submit multiple pieces, try to include multiple attachments in the same email, rather than multiple emails. Make sure that the documents clearly indicate the title(s) of your piece(s) and have a file name in the structure of: LastName_ShortTitle_Category_1. If you don't follow the defined formating exactly, we will still review your submission; though, it would be most helpful if you follow the formatting guidelines to the best of your ability. 
+Your submission should be in the form of an email to [locuscogitandi@gmail.com](locuscogitandi@gmail.com).
+
+The subject of your email should be in the following format: Submission, [Title], [First and Last Name], [Category]. 
+
+In the body of your email, please include a brief third-person bio, title, category, and any other information you think is relevant to us reviewing your submission. Please attach your writing as a word/pdf document, formatted reasonably. 
+
+If you wish to include submit multiple pieces, try to include multiple attachments in the same email, rather than multiple emails. 
+
+Make sure that the document filenames clearly indicate the title(s) of your piece(s) and have a file name in the structure of: LastName_ShortTitle_Category_1. 
+
+If you don't follow the defined formating exactly, we will still review your submission; though, it would be most helpful if you follow the formatting guidelines to the best of your ability. 
 
 After submitting, we will get back to you with a decision or revsions as soon as we can by email. We will always try to provide as much feedback as possible. We will always prefer to offer you a revision oprtunity, than rejecting your work. If its taking longer, that doesn't mean we haven't read your work; it most likely we are working with multiple reviewers to ensure we can make an informed decision and provide thorough feedback. 
 
