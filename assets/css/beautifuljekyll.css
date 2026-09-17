@@ -919,6 +919,7 @@ pre {
 }
 
 /* Make line numbers unselectable: excludes line numbers from copy-paste user ops */
+/*
 .lineno {
   -webkit-user-select: none;
      -moz-user-select: none;
@@ -927,7 +928,7 @@ pre {
 }
 .lineno::selection, .lineno::-moz-selection {
   background: none;
-}
+}*/
 
 /* Fix table border github gist snippets */
 
