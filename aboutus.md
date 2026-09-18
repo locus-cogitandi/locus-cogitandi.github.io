@@ -32,4 +32,4 @@ Contact us at [locuscogitandi@gmail.com](locuscogitandi@gmail.com)
 
 We are especially grateful to our first Latin teacher, **Mr. McNair**, who sparked our interest and continuously supports our effort. 
 
-*fluctuat nec mergitur*
+*scientia non visa, ut nulla*
