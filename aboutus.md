@@ -12,7 +12,7 @@ A few years ago, this project started as a roundtable discussion of Latin writin
 
 Editor-in-Chief, **Aaron D’Souza** is a high school junior at The Cambridge School in San Diego. Languages: Latin. 
 
-Editor & Languages, **Wyatt Simonson** is a high school junior at The Cambridge School in San Diego. Once, he read Latin textbooks while sick in bed for fun. Languages: Latin, Greek, and Hebrew.
+Editor, **Wyatt Simonson** is a high school junior at The Cambridge School in San Diego. Once, he read Latin textbooks while sick in bed for fun. Languages: Latin, Greek, and Hebrew.
 
 ### Readers / Advisors
 
