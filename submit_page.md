@@ -6,7 +6,7 @@ subtitle:
 
 ## Who?
 
-Though the focus of Locus Cogitandi is students, all are welcome to submit!
+All are welcome to submit!
 
 ## When?
 
