@@ -8,6 +8,8 @@ subtitle:
 
 A few years ago, this project started as a roundtable discussion of Latin writing during lunch breaks. The idea was simple. Create a place for thinking. Eventually, this led to writing some blog posts. Recently, we’ve decided to expand this into **a literary journal at the intersection of thinking, classical texts, and lived experiences run by and built for student at all levels**. If you think you have writing which relates to this description, [please submit](https://locus-cogitandi.github.io/submit_page/).
 
+To see the *past* blog posts, just check out the [home page](https://locus-cogitandi.github.io/).
+
 ### Our Team
 
 Editor-in-Chief, **Aaron D’Souza** is a high school junior at The Cambridge School in San Diego. Languages: Latin. 
