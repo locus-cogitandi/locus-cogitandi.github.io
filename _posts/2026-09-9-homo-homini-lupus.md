@@ -4,7 +4,7 @@ title: "Homo Homini Lupus"
 subtitle: Plautus, Asinaria 489-495
 tags: [plautus, trust, human nature, latin, comedy, deception]
 hidden-tags: colgate university, strangers, prudence, ancient wisdom, merchant, identity verification, caution
-author: Milo Austin (guest)
+author: Milo Austin
 translator_name: Milo Austin
 ---
 
