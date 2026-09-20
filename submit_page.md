@@ -14,7 +14,7 @@ We are continiously OPEN to rolling submissions! Our first issue is planned to b
 
 ## What?
 
-We accept work at the intersection of thinking, classical texts, and lived experiences. Interactions with and allusions to primary-source (latin/greek) classical texts are highly valued, though not necessary. Any work produced by AI, submitted as an outline/pitch, or already published will not be considered (You can submit simultaneously, but please notify us immediately if you are withdrawing your submission). If you're unsure if your work exactly fits what we want, remember that it never hurts to try. The following are the four categories of work we are accepting: 
+We accept work at the intersection of thinking, classical texts, and lived experiences. Interactions with and allusions to primary-source (latin/greek) classical texts are highly valued, though not necessary. Any work produced by AI or already published will not be considered (You can submit simultaneously, but please notify us immediately if you are withdrawing your submission). If you're unsure if your work exactly fits what we want, remember that it never hurts to try. The following are the four categories of work we are accepting: 
 
 **Analysis** *(non-fiction)*: Interpretive essays, cultural criticism (art, literature, etc.; preferably interacting with some classical language or story), and lyric essays. In this category, we're interest in writing which explores interesting ideas. 
 
