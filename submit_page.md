@@ -4,6 +4,8 @@ title: Submit
 subtitle:  
 ---
 
+We are looking for quality analysis, translations, original Latin writing, or anything else interesting! We will pay $15 for any english writing piece and $25 for any original Latin writing piece we select.
+
 ## Who?
 
 All are welcome to submit!
